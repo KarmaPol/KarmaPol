@@ -2,7 +2,6 @@
 
 # KarmaPol 🔥🔥
 
-중앙대 소프트웨어학과 3학년 재학  
 백엔드 공부 중  
 <br/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
