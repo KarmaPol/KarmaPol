@@ -12,9 +12,9 @@ https://github.com/KarmaPol
 
 https://velog.io/@kkhkr98
 
-### Notion
+### Portfolio
 
-https://karmapol.notion.site/16ce2e57af4a4fa9bb97d2b5a788bfe6?pvs=4
+https://www.rallit.com/resumes/143665@kkhkr98/%EA%B9%80%EA%B2%BD%ED%9B%88?theme=MINT_SORBET
 
 <br/>   
 <br/>   
