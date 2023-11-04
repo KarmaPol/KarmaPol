@@ -14,7 +14,7 @@ https://velog.io/@kkhkr98
 
 ### Portfolio
 
-https://www.rallit.com/resumes/143665@kkhkr98/%EA%B9%80%EA%B2%BD%ED%9B%88?theme=MINT_SORBET
+[포트폴리오](https://www.rallit.com/resumes/143665@kkhkr98/%EA%B9%80%EA%B2%BD%ED%9B%88?theme=STANDARD)
 
 <br/>   
 <br/>   
