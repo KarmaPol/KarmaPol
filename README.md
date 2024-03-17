@@ -1,20 +1,17 @@
 
 
 # KarmaPol 
-Spring 백엔드 개발자를 목표로 하고 있습니다.
-
-
-### Github
-
-https://github.com/KarmaPol
 
 ### Blog
 
 https://velog.io/@kkhkr98
 
+### Resume
+[이력서](https://www.rallit.com/resumes/143665@kkhkr98/%EA%B9%80%EA%B2%BD%ED%9B%88?theme=MODERN)
+
 ### Portfolio
 
-[포트폴리오](https://www.rallit.com/resumes/143665@kkhkr98/%EA%B9%80%EA%B2%BD%ED%9B%88?theme=MODERN)
+[포트폴리오](https://fascinated-mangosteen-160.notion.site/bd6dbe8a1c98476386f8056fdcbd2af8)
 
 <br/>   
 <br/>   
